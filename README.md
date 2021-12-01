@@ -10,4 +10,4 @@ Folder name        | Description                                     |
 3_Implementation   | All codes and documentation                     |
 4_TestPlanandOutput| Documents with test plan                        |
 5_Report           | Documentation of whole project                  |
-6_Video            | All the images of the project                   |
+6_ImagesandVideo   | All the images of the project                   |
