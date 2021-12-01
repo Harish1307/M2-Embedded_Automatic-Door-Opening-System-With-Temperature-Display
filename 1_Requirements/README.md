@@ -22,3 +22,6 @@ The installation process of automatic doors mandates the need of a professional 
 ## Opportunities 
 The system can be later enhanced by integrating counter mechanism so as to keep track of the number of persons inside the facility.
 
+## High Level Requirements
+- Accuracy in Temperature detection
+- Essential components include atmega328 micro controller, sensor
